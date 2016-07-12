@@ -1,0 +1,4 @@
+*.jar
+// IntelliJ Idea-related
+*.iml
+.idea/
